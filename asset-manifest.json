@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mduduzi-teamda/static/css/main.073c9b0a.css",
-    "main.js": "/mduduzi-teamda/static/js/main.b003d328.js",
+    "main.css": "/mduduzi-teamda/static/css/main.abd64e84.css",
+    "main.js": "/mduduzi-teamda/static/js/main.313087c8.js",
     "static/js/787.825a96f0.chunk.js": "/mduduzi-teamda/static/js/787.825a96f0.chunk.js",
     "static/media/logo.svg": "/mduduzi-teamda/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mduduzi-teamda/index.html",
-    "main.073c9b0a.css.map": "/mduduzi-teamda/static/css/main.073c9b0a.css.map",
-    "main.b003d328.js.map": "/mduduzi-teamda/static/js/main.b003d328.js.map",
+    "main.abd64e84.css.map": "/mduduzi-teamda/static/css/main.abd64e84.css.map",
+    "main.313087c8.js.map": "/mduduzi-teamda/static/js/main.313087c8.js.map",
     "787.825a96f0.chunk.js.map": "/mduduzi-teamda/static/js/787.825a96f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b003d328.js"
+    "static/css/main.abd64e84.css",
+    "static/js/main.313087c8.js"
   ]
 }
