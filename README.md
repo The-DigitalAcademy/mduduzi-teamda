@@ -1,3 +1,2 @@
-# Mduduzi-teamDA
 # mduduzi-teamda
-[link]( https://the-digitalacademy.github.io/mduduzi-teamda/)
+[Link]( https://the-digitalacademy.github.io/mduduzi-teamda/)
